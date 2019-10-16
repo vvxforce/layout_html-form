@@ -1,0 +1,12 @@
+.line {
+  display: block;
+  margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+.mb {
+  margin-bottom: 0;
+}
