@@ -1,12 +1,12 @@
-.line {
+.input--distance {
   display: block;
   margin-bottom: 10px;
 }
 
-fieldset {
+.block--distance {
   margin-bottom: 20px;
 }
 
-.mb {
+.last--line {
   margin-bottom: 0;
 }
